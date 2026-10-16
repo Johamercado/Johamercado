@@ -1,5 +1,5 @@
 # ¡Hola! Soy Johanna 👋
-![Visitas](https://komarev.com/ghpvc/?username=Johamercado&color=32cd32B&style=flat-square)
+![Visitas](https://komarev.com/ghpvc/?username=Johamercado&color=32cd32&style=flat-square)
 
 Soy estudiante de **Desarrollo de Software** y apasionada por el **Análisis y la Ciencia de Datos**. Me interesa transformar datos en insights y decisiones estratégicas a través del modelado estadístico, simulaciones probabilísticas y visualizaciones claras.
 
